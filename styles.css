@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+p{
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-right:10px;
+    margin-bottom:50px;
+   
+
+}
+
+
+
+
+article {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+  }
+body{
+    margin: 8px;
+    display: block;
+
+  }
+
+#mainHeading{
+    color: red;
+
+}
+
+
+.funParagraph{
+    color:green;
+
+}
